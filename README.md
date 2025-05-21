@@ -1,2 +1,3 @@
-# unknown_battles
-Unknown Battles - admin panel for free fire tournaments
+# Unknown Battles
+
+A Flutter app for managing Free Fire tournaments.
